@@ -1,0 +1,101 @@
+h1 
+	{
+	font-size: 60px;
+	font-family: arial;
+	text-decoration: underline;
+	font-style: italic;
+	margin-bottom: 90px;
+	margin-top: 90px;
+	}
+
+	
+#section
+/*Titre et paragraphe 1*/
+	{
+	width: 960px;
+	text-align: justify;
+	font-style: italic;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 12px;
+	}
+
+	
+#box1 
+/*Paragraphe*/
+	{
+	width: 960px;
+	text-align: justify;
+	font-style: italic;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 12px;
+	margin-top : 20px;
+	margin-bottom: 20px;
+	}
+	
+	
+nav 
+/*Autres pages du site*/
+	{
+	font-size: 15px;
+	font-family: arial;
+	float: right;
+	}
+	
+
+#header
+	{
+	font-size: 20px;
+	font-family: arial;
+	}
+	
+	
+body 
+	{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+	
+#bloc_3 
+/*Images*/
+	{
+	width: 960px;
+	}
+
+
+a:hover 
+/*Apparition en gras lorsqu'on place la souris dessus*/
+		{
+		font-weight: bold;
+		}
+
+	
+a:link 
+/*Supprime le soulignement des liens*/
+	{ 
+	text-decoration:none; 
+	} 
+
+	
+footer
+	{
+	width: 960px;
+	font-family: arial;
+	border-top : 1px solid #000;
+	font-size: 12px;
+	float: right;
+	text-align : right;
+	margin-top : 500px;
+	margin-bottom: 40px;
+	}
+
+a:visited {color: black;}
+	
+.en-cours
+/*Page où on se trouve sur le site*/
+	{
+	font-weight: bold;
+	}
